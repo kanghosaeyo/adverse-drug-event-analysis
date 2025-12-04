@@ -72,10 +72,11 @@ jupyter notebook
 
 ## Authors
 
-Oscar Kangho Ji - Northeastern University
-Victoria Charry - Northeastern University
-Pranav Gunthupalli - Northeastern University
-Shiv Patel - Northeastern University
+- Oscar Kangho Ji - Northeastern University
+- Victoria Charry - Northeastern University
+- Pranav Gunthupalli - Northeastern University
+- Shiv Patel - Northeastern University
+
 
 
 
