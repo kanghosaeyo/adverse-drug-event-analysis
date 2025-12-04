@@ -70,10 +70,13 @@ jupyter notebook
 2. Open `notebooks/phase3_linear_polynomial_regression.ipynb` for regression analysis
 3. Open `notebooks/phase4_logistic_regression.ipynb` for classification models
 
-## Author
+## Authors
 
-Kangho - Northeastern University
-Data Science Course Project
+Oscar Kangho Ji - Northeastern University
+Victoria Charry - Northeastern University
+Pranav Gunthupalli - Northeastern University
+Shiv Patel - Northeastern University
+
 
 
 
