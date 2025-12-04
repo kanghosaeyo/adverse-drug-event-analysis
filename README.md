@@ -4,13 +4,22 @@ Exploratory data analysis and machine learning project examining patterns in FDA
 
 ## Project Structure
 ```
+adverse-drug-event-analysis/
+│
+├── README.md
+├── requirements.txt
+├── .gitignore
+│
+├── data/
+│   ├── raw/
+│   │   └── drug_events.csv           # Original raw data from FDA API
+│   └── cleaned/
+│       └── fda_cleaned_data.csv      # Cleaned and processed data
+│
 ├── notebooks/
-│   ├── phase2_data_curation.ipynb              # Data collection, cleaning, and EDA
-│   ├── phase3_linear_polynomial_regression.ipynb   # Linear & polynomial regression models
-│   └── phase4_logistic_regression.ipynb        # Logistic regression classification
-├── data/cleaned/
-│   └── fda_cleaned_data.csv                    # Cleaned FDA adverse event data
-└── figures/                                     # Visualizations
+    ├── phase2_data_curation.ipynb
+    ├── phase3_linear_polynomial_regression.ipynb
+    └── phase4_logistic_regression.ipynb
 ```
 
 ## Research Questions
@@ -111,3 +120,4 @@ Thumbs.db
 # IDE
 .vscode/
 .idea/
+
