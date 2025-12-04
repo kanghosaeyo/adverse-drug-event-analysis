@@ -76,48 +76,7 @@ Kangho - Northeastern University
 Data Science Course Project
 ```
 
----
 
-## **Step 4: Create requirements.txt**
 
-Create a file called `requirements.txt`:
-```
-numpy
-pandas
-requests
-matplotlib
-seaborn
-scikit-learn
-scipy
-jupyter
-```
 
----
-
-## **Step 5: Create .gitignore**
-
-Create a file called `.gitignore`:
-```
-# Jupyter Notebook
-.ipynb_checkpoints/
-*/.ipynb_checkpoints/*
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.so
-.Python
-
-# Data files (if too large)
-*.csv
-data/raw/*
-
-# OS
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
 
